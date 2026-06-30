@@ -2,4 +2,4 @@
 
 ## Output Screenshot
 
-![Output](output.png)
+![Output](mall customer.pdf)
