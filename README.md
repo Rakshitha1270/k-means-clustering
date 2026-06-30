@@ -11,6 +11,6 @@
 ### Customer Clusters
 ![Cluster Output](output2.png)
 
-## Project Report PDF
+## Project Report pdf
 
-[View PDF](mall_customer.pdf)
+[View pdf](mall_customer.pdf)
