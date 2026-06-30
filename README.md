@@ -1,5 +1,5 @@
 # k-means-clustering
 
-## Output Screenshot
+## Output pdf
 
 ![Output](mall customer.pdf)
