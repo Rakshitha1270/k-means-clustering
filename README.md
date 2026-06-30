@@ -3,4 +3,4 @@
 
 ## mall customer .pdf
 
-[Click Here to View pdf](mall customer.pdf)
+[click here to view pdf](mall customer .pdf)
